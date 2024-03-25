@@ -1,3 +1,6 @@
+# ⚠️ NOTICE!
+> I will be taking an indefinite hiatus from any and all projects for the forseeable future.
+
 ### 👋 WADDUP!
 
 My name is **Riley Wilson**, I'm a video editor, motion graphics designer, and a ***very*** part-time web developer. You can generally find me working on projects in either **JavaScript** or **Python**.
